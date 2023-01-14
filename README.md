@@ -126,3 +126,7 @@ to get the Precision, Recall, F1 without/with point adjusting.
 * USAD: https://github.com/manigalati/usad
 * SCAFFOLD：https://github.com/Xtra-Computing/NIID-Bench
 * MOON: https://github.com/QinbinLi/MOON
+
+## Contact
+
+If any questions about the code, please contact fanxingliu2020@gmail.com
